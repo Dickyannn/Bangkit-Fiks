@@ -22,5 +22,6 @@
 3. Install required packages:
    pip install -r requirements.txt
 
-# Run Streamlit App
+## Run Streamlit App
 streamlit run dicky_ml15.py
+
